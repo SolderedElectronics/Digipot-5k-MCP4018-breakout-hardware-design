@@ -241,3 +241,21 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/DAC 6-bit 1-channel MCP47A1 breakout to DAC-6-bit-1-channel-MCP47A1-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Digipot 5k MCP4018 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main dc7c591] Updating open source files.
+ 1 file changed, 19 insertions(+)
+https://github.com/SolderedElectronics/Digipot-5k-MCP4018-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Basic H-bridge board/OUTPUTS/V2.0.2: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/DAC 6-bit 1-channel MCP47A1 breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+DAC-6-bit-1-channel-MCP47A1-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/DAC 6-bit 1-channel MCP47A1 breakout to DAC-6-bit-1-channel-MCP47A1-breakout-hardware-design
